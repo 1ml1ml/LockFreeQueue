@@ -1,2 +1,2 @@
 # LockFreeQueue
-无所队列
+简单无锁队列
